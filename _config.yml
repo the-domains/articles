@@ -1,0 +1,28 @@
+name: articles
+favicon: null
+layout_spectrum: 0.3819300571922213
+typography_spectrum: 0.19156787893734872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4611472529359162
+  lightness: 0.38906597765162587
+  saturation: 0.30034601921215653
+  rhythmicContrast: 0.19836650253273547
+purpose: []
